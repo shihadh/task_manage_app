@@ -1,0 +1,38 @@
+Analyzing 4 items...                                            
+
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\view\login_screen.dart:78:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\view\login_screen.dart:90:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\view\login_screen.dart:122:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\view\login_screen.dart:125:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\view\login_screen.dart:149:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\view\login_screen.dart:166:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\view\login_screen.dart:169:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\view\login_screen.dart:191:61 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\view\login_screen.dart:256:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\view\login_screen.dart:257:56 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\view\login_screen.dart:260:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\view\login_screen.dart:275:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\auth\view\login_screen.dart:298:50 - deprecated_member_use
+  error - The getter 'detail' isn't defined for the type 'AppStrings' - lib\features\tasks\view\task_detail_screen.dart:35:24 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tasks\view\task_detail_screen.dart:38:47 - deprecated_member_use
+  error - The getter 'detail' isn't defined for the type 'AppStrings' - lib\features\tasks\view\task_detail_screen.dart:52:22 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tasks\view\task_detail_screen.dart:92:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tasks\view\task_detail_screen.dart:104:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tasks\view\task_detail_screen.dart:127:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tasks\view\task_detail_screen.dart:130:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tasks\view\task_detail_screen.dart:175:57 - deprecated_member_use
+  error - The getter 'detail' isn't defined for the type 'AppStrings' - lib\features\tasks\view\task_detail_screen.dart:186:47 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tasks\view\task_detail_screen.dart:192:57 - deprecated_member_use
+  error - The getter 'detail' isn't defined for the type 'AppStrings' - lib\features\tasks\view\task_detail_screen.dart:203:52 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tasks\view\task_detail_screen.dart:206:59 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tasks\view\task_detail_screen.dart:209:61 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tasks\view\task_detail_screen.dart:213:61 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tasks\view\task_detail_screen.dart:219:61 - deprecated_member_use
+  error - The getter 'detail' isn't defined for the type 'AppStrings' - lib\features\tasks\view\task_detail_screen.dart:234:48 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tasks\view\task_detail_screen.dart:264:59 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tasks\view\task_detail_screen.dart:265:59 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tasks\view\task_detail_screen.dart:278:49 - deprecated_member_use
+  error - The getter 'detail' isn't defined for the type 'AppStrings' - lib\features\tasks\view\task_detail_screen.dart:305:57 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tasks\view\task_detail_screen.dart:337:22 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\tasks\view\task_detail_screen.dart:339:41 - deprecated_member_use
+
